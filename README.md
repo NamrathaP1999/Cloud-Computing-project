@@ -1,6 +1,6 @@
 # Property Value Analysis and Prediction on AWS
 
-This project focuses on predicting and analyzing Bengaluru's housing market by leveraging various machine learning techniques on the AWS platform[cite: 1].
+This project focuses on predicting and analyzing Bengaluru's housing market by leveraging various machine learning techniques on the AWS platform.
 
 ## Team
 
